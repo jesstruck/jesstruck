@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏭 Company - https://www.techchapter.com/
+- 🏭 Company - https://www.techchapter.com
 - 🐥 Twitter - https://twitter.com/jestruck
 - 🐥 LinkedIn - https://www.linkedin.com/in/jesstruck
 
